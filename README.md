@@ -6,7 +6,7 @@
 
 >transition "specific value we want to transition" "time it takes to transition in seconds"
 
-An example of css code is given below
+<p align="center">An example of css code is given below</p>
 
 ```css
 .heading {
