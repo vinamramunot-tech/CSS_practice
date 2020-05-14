@@ -32,4 +32,4 @@ Here if we want target different properties together we can separate properties 
         //transition: color 0.5s, font-size 1s;
         //transition: all 0.5s;
     }
-
+    ```
