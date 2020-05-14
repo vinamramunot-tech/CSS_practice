@@ -26,7 +26,7 @@ Here if we want target different properties together we can separate properties 
 <p align="center">An example of css code is given below</p>
 
 ```css
-.heading {
+.heading:hover {
 color: blue;
 font-size: 20px;
 //transition: color 0.5s, font-size 1s;
@@ -36,3 +36,14 @@ font-size: 20px;
 
 <h2>Customization transition</h2>
 
+1. Transition Delay
+
+This will add a pause for 1s second before the transition occurs.
+
+```css
+            .heading {
+                //...
+                transition-delay: 1s;
+                //...
+            }
+```
