@@ -1,8 +1,9 @@
 <h1>CSS Practice with Scrimba</h1>
 
-<h2>Adding Transitions</h2>
+<h2>Hover Property</h2>
 
-<h5>Adding the transition element</h5>
+
+<h3>Adding Transitions</h3>
 
 >transition "specific value we want to transition" "time it takes to transition in seconds"
 
@@ -26,7 +27,7 @@ Here if we want target different properties together we can separate properties 
 <p align="center">An example of css code is given below</p>
 
 ```css
-.heading:hover {
+.heading {
 color: blue;
 font-size: 20px;
 //transition: color 0.5s, font-size 1s;
@@ -34,7 +35,7 @@ font-size: 20px;
 }
 ```
 
-<h2>Customization transition</h2>
+<h3>Customization transition</h3>
 
 1. Transition Delay
 
