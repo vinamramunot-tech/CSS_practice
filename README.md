@@ -2,7 +2,7 @@
 
 <h2>Adding Transitions</h2>
 
-<h6>Adding the transition element</h6>
+<h5>Adding the transition element</h5>
 
 >transition "specific value we want to transition" "time it takes to transition in seconds"
 
@@ -23,16 +23,16 @@ Here if we want target different properties together we can separate properties 
 >transition all "time in sec"
 
 
-    An example of css code is given below
+<p align="center">An example of css code is given below</p>
 
-    ```css
-    .heading {
-        color: blue;
-        font-size: 20px;
-        //transition: color 0.5s, font-size 1s;
-        //transition: all 0.5s;
-    }
-    ```
+```css
+.heading {
+color: blue;
+font-size: 20px;
+//transition: color 0.5s, font-size 1s;
+//transition: all 0.5s;
+}
+```
 
 <h2>Customization transition</h2>
 
