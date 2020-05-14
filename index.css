@@ -2,3 +2,8 @@
     color: darkblue;
     font-size: 20px;
 }
+
+.heading:hover {
+    color: pink;
+    font-size: 50px;
+}
