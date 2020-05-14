@@ -6,15 +6,15 @@
 
 >transition "specific value we want to transition" "time it takes to transition in seconds"
 
-    An example of css code is given below
+An example of css code is given below
 
-    ```css
-    .heading {
-        color: blue;
-        font-size: 20px;
-        transition: color 0.5s;
-    }
-    ```
+```css
+.heading {
+color: blue;
+font-size: 20px;
+transition: color 0.5s;
+}
+```
 
 Here if we want target different properties together we can separate properties by comma or all the properties together
 
