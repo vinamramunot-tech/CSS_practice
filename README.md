@@ -42,9 +42,18 @@ font-size: 20px;
 This will add a pause for 1s second before the transition occurs.
 
 ```css
-            .heading {
-                //...
-                transition-delay: 1s;
-                //...
-            }
+.heading {
+    //...
+    transition-delay: 1s;
+    //...
+}
 ```
+
+
+
+
+> A Link to markdown cheatsheet [ME][1]
+
+
+
+[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
