@@ -38,13 +38,31 @@ font-size: 20px;
 <h3>Customization transition</h3>
 
 1. Transition Delay
-
 This will add a pause for 1s second before the transition occurs.
-
 ```css
 .heading {
     //...
     transition-delay: 1s;
+    //...
+}
+```
+
+2. Separating properties within transitio
+```css
+.heading {
+    //...
+    transition-property: color, font-size, all;
+    transition-duration: 1s;
+    //...
+}
+```
+
+3. Transition timing function
+```css
+.heading {
+    //...
+    //transition-timing-function: ease;
+    //transition-timing-function: linear;
     //...
 }
 ```
