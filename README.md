@@ -1,8 +1,8 @@
-<h1>CSS Practice with Scrimba<h1>
+<h1>CSS Practice with Scrimba</h1>
 
 <h2>Adding Transitions</h2>
 
-1. Adding the transition element
+<h6>Adding the transition element</h6>
 
 >transition "specific value we want to transition" "time it takes to transition in seconds"
 
@@ -33,3 +33,6 @@ Here if we want target different properties together we can separate properties 
         //transition: all 0.5s;
     }
     ```
+
+<h2>Customization transition</h2>
+
