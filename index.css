@@ -1,9 +1,11 @@
 .heading {
     color: darkblue;
-    font-size: 20px;
+    font-size: 15px;
+
+    transition: all 1s ease-in 1s;
 }
 
 .heading:hover {
-    color: pink;
-    font-size: 50px;
+    color: green;
+    font-size: 10px;
 }

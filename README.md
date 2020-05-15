@@ -67,9 +67,31 @@ This will add a pause for 1s second before the transition occurs.
 }
 ```
 
+<h3>Transition Shorthand</h3>
+
+>transition "transition-property" "transition-duration" "transition-timing-function" "transition-delay"
+
+```css
+.heading {
+    //...
+    transition: font-size 0.5s ease-in 1s;
+    //...
+}
+```
 
 
 
+change the font size to 10px
+
+and color to green
+
+1s delay
+
+all 
+
+1s duration
+
+easein
 > A Link to markdown cheatsheet [ME][1]
 
 
