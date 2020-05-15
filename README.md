@@ -81,17 +81,10 @@ This will add a pause for 1s second before the transition occurs.
 
 
 
-change the font size to 10px
 
-and color to green
 
-1s delay
 
-all 
 
-1s duration
-
-easein
 > A Link to markdown cheatsheet [ME][1]
 
 
