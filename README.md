@@ -95,10 +95,13 @@ setting two things in the parent css block:
     height: 50px;
     background: red;
     border: 1px solid black;
+    /*
+    below is animation timing
+    */
     animation-name: grow;
     animation-duration: 2s;
     animation-delay: 1s;
-    animation-iteration-count: 3;
+    animation-iteration-count: 3; /* can be infinite */
 }
 @keyframes "name of the animation" {
     /*
