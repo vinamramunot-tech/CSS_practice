@@ -121,6 +121,43 @@ setting two things in the parent css block:
 }
 
 ```
+1. animation function
+
+```css
+
+.box {
+    //...
+    animation-timing-function: ease;
+    animation-direction: alternate-reverse;
+    animation-fill-mode: forwards, backwards, both;
+    //...
+}
+@keyframes "name of the animation" {
+    /*
+    from {all the properties}
+    to {all the properties}
+    */
+
+    /* setting up different percentage of growth
+    0% {}
+    50% {}
+    100% {}
+    */
+
+    from {width: 100px; height: 200px; background: red}
+    to {width: 20px; height: 20px; background: blue}
+
+}
+
+```
+
+2. shorthand
+
+>animation "name" "duration" "timing function" "delay" "iteration-count" "direction"
+
+
+## Introduction to Transforms and Scaling
+
 
 
 
