@@ -8,6 +8,6 @@
 }
 
 @keyframes grow {
-    0% {width: 100px; height: 100px; color: blue}
-    100% {width: 10px; height: 10px; color: red}
+    0% {width: 100px; height: 100px; background: blue}
+    100% {width: 10px; height: 10px; background: red}
 }

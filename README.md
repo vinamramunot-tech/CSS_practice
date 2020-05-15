@@ -101,6 +101,9 @@ setting two things in the parent css block:
     100% {}
     */
 
+    from {width: 100px; height: 200px; background: red}
+    to {width: 20px; height: 20px; background: blue}
+
 }
 
 
