@@ -89,6 +89,17 @@ setting two things in the parent css block:
 `animation-duration` : `2s`;
 
 ```css
+
+.box {
+    width: 50px;
+    height: 50px;
+    background: red;
+    border: 1px solid black;
+    animation-name: grow;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-iteration-count: 3;
+}
 @keyframes "name of the animation" {
     /*
     from {all the properties}
@@ -106,7 +117,7 @@ setting two things in the parent css block:
 
 }
 
-
+```
 
 
 
