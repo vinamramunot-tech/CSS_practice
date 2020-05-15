@@ -80,7 +80,28 @@ This will add a pause for 1s second before the transition occurs.
 }
 ```
 
+## Animation
 
+standalone, not dependent on pseudo classes
+
+setting two things in the parent css block:
+`animation-name` : `grow`;
+`animation-duration` : `2s`;
+
+```css
+@keyframes "name of the animation" {
+    /*
+    from {all the properties}
+    to {all the properties}
+    */
+
+    /* setting up different percentage of growth
+    0% {}
+    50% {}
+    100% {}
+    */
+
+}
 
 
 
