@@ -1,7 +1,7 @@
 <h1>CSS Practice with Scrimba</h1>
 
-<h2>Hover Property</h2>
-
+<h2>Transition</h2>
+__All done using hover property__
 
 <h3>Adding Transitions</h3>
 
